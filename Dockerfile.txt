@@ -1,1 +1,3 @@
 From open jdk:11
+
+EXPOSE 8081
