@@ -1,0 +1,14 @@
+ .classpath
+       
+        
+.project
+ .settings/
+  Dockerfile.txt
+        JenkinsFile
+        db.yml.txt
+        k8s-deployment.yml
+    
+        
+        target
+
+
